@@ -1,0 +1,24 @@
+BREAKFAST
+--------------------------
+All day (large)		$5.50
+All day (small)		$3.50
+
+MAINS
+--------------------------
+Hot Dog				$3.00
+Burger				$4.00
+Cheese Burger		$4.25
+Chicken Goujons		$3.50
+
+EXTRAS
+-------------------------
+Fries				$1.75
+Salad				$2.20
+
+DRINKS
+------------------------
+Milkshake 			$2.20
+Soft Drinks 		$1.30
+Still Water 		$0.90
+Sparkling Water 	$0.90
+

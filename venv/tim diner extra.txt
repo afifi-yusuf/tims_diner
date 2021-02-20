@@ -1,0 +1,58 @@
+    if int(all_day_large) > 0:
+       qty_list.append(all_day_large)
+        x = round(int(all_day_large) * 5.50, 3)
+        amt_list.append(str(x))
+       item_list.append("All Day(Small)")
+        qty_list.append(all_day_small)
+        x = round(int(all_day_small) * 3.50, 3)
+        amt_list.append(str(x))
+    if int(hot_dog) > 0:
+        item_list.append("Hot Dog")
+        qty_list.append(hot_dog)
+        x = round(int(hot_dog) * 3.00, 3)
+        amt_list.append(str(x))
+    if int(burger) > 0:
+        item_list.append("Burger")
+        qty_list.append(hot_dog)
+        x = round(int(hot_dog) * 4.00, 3)
+        amt_list.append(str(x))
+    if int(cheese_burger) > 0:
+        item_list.append("Cheese Burger")
+        qty_list.append(cheese_burger)
+        x = round(int(cheese_burger) * 4.25, 3)
+        amt_list.append(str(x))
+    if int(chicken_goujons) > 0:
+        item_list.append("Chicken Goujons")
+        qty_list.append(chicken_goujons)
+        x = round(int(chicken_goujons) * 3.50, 3)
+        amt_list.append(str(x))
+    if int(fries) > 0:
+        item_list.append("Fries")
+        qty_list.append(fries)
+        x = round(int(fries) * 1.75, 3)
+        amt_list.append(str(x))
+    if int(salad) > 0:
+        item_list.append("Salad")
+        qty_list.append(salad)
+        x = round(int(salad) * 2.20, 3)
+        amt_list.append(str(x))
+    if int(milkshake) > 0:
+        item_list.append("Milkshake")
+        qty_list.append(milkshake)
+        x = round(int(milkshake) * 2.20, 3)
+        amt_list.append(str(x))
+    if int(soft_drinks) > 0:
+        item_list.append("Soft Drinks")
+        qty_list.append(soft_drinks)
+        x = round(int(soft_drinks) * 1.30, 3)
+        amt_list.append(str(x))
+    if int(still_water) > 0:
+        item_list.append("Still Water")
+        qty_list.append(still_water)
+        x = round(int(still_water) * 0.90, 3)
+        amt_list.append(str(x))
+    if int(sparkling_water) > 0:
+        item_list.append("Sparkling Water")
+        qty_list.append(sparkling_water)
+        x = round(int(sparkling_water) * 0.90, 3)
+        amt_list.append(str(x))
